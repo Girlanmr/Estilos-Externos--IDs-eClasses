@@ -1,3 +1,15 @@
-body{
-    background-color: black;
-}
+.classe1 {
+    background: blue;
+  }
+  #idUm {
+    background: blue;
+  }
+  #idDois {
+    background: yellow;
+  }
+  #idTres {
+    background: lightblue;
+  }
+  #idQuatro {
+    background: lightgreen;
+  }
